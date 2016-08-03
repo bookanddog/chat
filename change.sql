@@ -1,0 +1,1 @@
+﻿select fcount from "friendShip" where ucount = '123';
